@@ -6,7 +6,6 @@
     "''"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/dylankb/learning-front-end",
   "private": true,
   "ignore": [
     "**/.*",
